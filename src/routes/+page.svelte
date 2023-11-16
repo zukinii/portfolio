@@ -2,8 +2,6 @@
 	import { data } from '$lib/scripts/data.js'
 	import Email from '$lib/icons/email.svelte'
 
-	const github = 'https://github.com/zukinii'
-
 	// assemble email to avoid bots reading it
 	const openEmail = () => {
 		const emailUserParts = ['dominic', 'ma', 'pranz']
@@ -14,6 +12,10 @@
 		window.location.href = mailtoLink
 	}
 </script>
+
+<svelte:head>
+	<title>{data.title}</title>
+</svelte:head>
 
 <header class="container">
 	<h1>{data.name}</h1>
