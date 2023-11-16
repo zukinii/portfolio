@@ -43,7 +43,7 @@
 		gap: var(--size-3);
 		background-color: var(--brand);
 		margin-block-start: var(--size-7);
-		padding: var(--size-2);
+		padding: var(--size-2) var(--size-4);
 		border-radius: var(--radius-2);
 		box-shadow: var(--shadow-1);
 

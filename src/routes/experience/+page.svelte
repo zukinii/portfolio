@@ -110,7 +110,7 @@
 
 	article ul li {
 		&:not(:last-of-type) {
-			margin-block-end: var(--size-1);
+			margin-block-end: var(--size-2);
 		}
 	}
 </style>
