@@ -4,17 +4,18 @@
 
 	const workExperience = [
 		{
-			year: '2016 - 2019',
-			company: 'Salzburg Digital / Salzburger Nachrichten',
-			companyUrl: 'https://www.sn.at/',
-			role: 'Fullstack Web Developer',
-			technologies: ['PHP', 'MySQL', 'Wordpress'],
-			description:
-				'Relaunch of the Salzburger Nachrichten website and development + maintenance of Wordpress sites and internal tools',
+			year: '2021 - now',
+			company: 'LOOP',
+			companyUrl: 'https://www.agentur-loop.com/',
+			role: 'Frontend Web Developer',
+			technologies: ['HTML', 'CSS', 'JavaScript'],
+			description: 'Frontend development of client websites',
 			examples: [
-				'https://www.salzburg24.at/',
-				'https://www.karriereforum.eu/',
-				'https://www.svh.at/'
+				'https://www.story.one/',
+				'https://www.tjs.at/',
+				'https://www.redbullring.com/',
+				'https://www.ottakringerbrauerei.at/',
+				'https://www.muellermobile.de/'
 			]
 		},
 		{
@@ -33,18 +34,17 @@
 			]
 		},
 		{
-			year: '2021 - now',
-			company: 'LOOP',
-			companyUrl: 'https://www.agentur-loop.com/',
-			role: 'Frontend Web Developer',
-			technologies: ['HTML', 'CSS', 'JavaScript'],
-			description: 'Frontend development of client websites',
+			year: '2016 - 2019',
+			company: 'Salzburg Digital / Salzburger Nachrichten',
+			companyUrl: 'https://www.sn.at/',
+			role: 'Fullstack Web Developer',
+			technologies: ['PHP', 'MySQL', 'Wordpress'],
+			description:
+				'Relaunch of the Salzburger Nachrichten website and development + maintenance of Wordpress sites and internal tools',
 			examples: [
-				'https://www.story.one/',
-				'https://www.tjs.at/',
-				'https://www.redbullring.com/',
-				'https://www.ottakringerbrauerei.at/',
-				'https://www.muellermobile.de/'
+				'https://www.salzburg24.at/',
+				'https://www.karriereforum.eu/',
+				'https://www.svh.at/'
 			]
 		}
 	]
