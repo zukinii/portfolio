@@ -35,7 +35,7 @@
 html {
 	color-scheme: dark light;
 	text-rendering: optimizeLegibility;
-	min-height: 100vh;
+	min-height: 100dvh;
 }
 
 @keyframes page-transition {

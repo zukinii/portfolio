@@ -52,7 +52,7 @@
 		grid-template-columns: minmax(0, 1fr);
 		grid-template-rows: 1fr auto;
 		gap: var(--size-3);
-		min-height: 100vh;
+		min-height: 100dvh;
 	}
 
 	footer {
